@@ -1,6 +1,12 @@
 # Video Panorama Stitcher
 
 GPU-accelerated video panorama stitcher for multi-camera setups. Combines footage from 3 cameras (left, center, right) into seamless wide-angle panoramic videos.
+# Multi-Camera Video Stitching (2 & 3 Camera)
+
+Python-based video stitching system supporting
+static and moving cameras using homography,
+OpenCV, and optional GPU acceleration.
+
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/opencv-4.x-green.svg)
