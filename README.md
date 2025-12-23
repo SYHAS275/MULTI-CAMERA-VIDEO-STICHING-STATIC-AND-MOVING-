@@ -29,7 +29,7 @@ Dataset- waymo dataset and custom datasets
 - ## 📸 Output Examples
 
 ### 2-Camera Stitching
-![2 Camera Output](assets/output1img.png)
+![2 Camera Output](assets/static.png)
 
 ### 3-Camera Stitching
 ![3 Camera Output](assets/result1.png)
